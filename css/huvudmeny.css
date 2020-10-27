@@ -1,0 +1,15 @@
+#flags {
+    position: absolute;
+	top: 90px;
+    left: 80px;
+    width: 200px;
+}
+
+@media screen and (max-width: 740px) {
+	#flags {
+		position: absolute;
+		top: 90px;
+		left: 190px;
+		width: 200px;
+	}
+}

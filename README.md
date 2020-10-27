@@ -1,2 +1,3 @@
 # dontristan.github.io
-tis my website can't ye see
+
+my own personal and portfolio website
