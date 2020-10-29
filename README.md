@@ -1,3 +1,3 @@
 # dontristan.github.io
 
-my own personal and portfolio website
+This is my own personal and portfolio website.
