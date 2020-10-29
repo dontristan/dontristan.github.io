@@ -22,7 +22,7 @@
 	width: 100%;
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 726px) {
 	#linkbox {
 		background-color: #050004;
 		height: 128px;
@@ -45,7 +45,7 @@
     left: 12px;
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 726px) {
 	#midtext {
 		position: absolute;
 		top: 261px;
@@ -55,8 +55,16 @@
 
 #img {
     position: absolute;
-    top: 0px;
-    left: 400px;
+    top: 500px;
+    left: 0px;
+}
+
+@media screen and (max-width: 726px) {
+	#img {
+		position: absolute;
+		top: 564px;
+		left: 0px;
+	}
 }
 
 #copyright {
