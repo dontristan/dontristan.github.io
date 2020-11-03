@@ -7,9 +7,126 @@
 
 @media screen and (max-width: 537px) {
 	#flags {
-		position: absolute;
-		top: 90px;
 		left: 190px;
-		width: 200px;
 	}
+}
+
+#titel {
+	margin-bottom: 5px;
+}
+
+#stader {
+	margin-top: 5px;
+}
+
+.square1 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#square1 { 
+	background-color: #050004;
+	position: absolute;
+	top: 339px;
+}
+
+.behind1 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#behind1 { 
+	background-color: #52454e;
+	position: absolute;
+	top: 339px;
+}
+
+.square2 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#square2 { 
+	background-color: #050004;
+	position: absolute;
+	top: 444px;
+}
+
+.behind2 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#behind2 { 
+	background-color: #52454e;
+	position: absolute;
+	top: 444px;
+}
+
+.square3 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#square3 { 
+	background-color: #050004;
+	position: absolute;
+	top: 527px;
+}
+
+.behind3 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#behind3 { 
+	background-color: #52454e;
+	position: absolute;
+	top: 527px;
+}
+
+.square4 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#square4 { 
+	background-color: #050004;
+	position: absolute;
+	top: 633px;
+}
+
+.behind4 {
+	width: 100px;
+	height: 21px;
+	border-radius: 0%;
+	float: left;
+	margin-right: 50px;
+}
+
+#behind4 { 
+	background-color: #52454e;
+	position: absolute;
+	top: 633px;
 }

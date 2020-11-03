@@ -24,13 +24,17 @@
 
 @media screen and (max-width: 726px) {
 	#linkbox {
-		background-color: #050004;
 		height: 128px;
-		position: absolute;
-		left: 0px;
-		top: 140px;
-		width: 100%;
 	}
+}
+
+#secretbox {
+	background-color: #050004;
+	height: 64px;
+	position: absolute;
+	left: 0px;
+	top: 140px;
+	width: 100%;
 }
 
 #links {
@@ -47,10 +51,14 @@
 
 @media screen and (max-width: 726px) {
 	#midtext {
-		position: absolute;
 		top: 261px;
-		left: 12px;
 	}
+}
+
+#secrettext {
+    position: absolute;
+    top: 195px;
+    left: 12px;
 }
 
 #img {
@@ -61,9 +69,20 @@
 
 @media screen and (max-width: 726px) {
 	#img {
+		top: 564px;
+	}
+}
+
+#button {
+	position: absolute;
+	top: 500px;
+	left: 96px;
+}
+
+@media screen and (max-width: 726px) {
+	#button {
 		position: absolute;
 		top: 564px;
-		left: 0px;
 	}
 }
 
