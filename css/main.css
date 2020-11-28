@@ -63,13 +63,13 @@
 
 #img {
     position: absolute;
-    top: 500px;
+    top: 516px;
     left: 0px;
 }
 
 @media screen and (max-width: 726px) {
 	#img {
-		top: 564px;
+		top: 580px;
 	}
 }
 
@@ -88,13 +88,13 @@
 
 #copyright {
     position: absolute;
-    top: 700px;
+    top: 750px;
     left: 12px;
 }
 
 @media screen and (max-width: 726px) {
 	#copyright {
-		top: 764px;
+		top: 814px;
 	}
 }
 
