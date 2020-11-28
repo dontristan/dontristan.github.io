@@ -88,13 +88,13 @@
 
 #copyright {
     position: absolute;
-    top: 900px;
+    top: 800px;
     left: 12px;
 }
 
 @media screen and (max-width: 711px) {
 	#copyright {
-		top: 964px;
+		top: 864px;
 	}
 }
 
