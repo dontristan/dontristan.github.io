@@ -49,7 +49,7 @@
     left: 12px;
 }
 
-@media screen and (max-width: 711px) {
+@media screen and (max-width: 726px) {
 	#midtext {
 		top: 261px;
 	}
@@ -67,7 +67,7 @@
     left: 0px;
 }
 
-@media screen and (max-width: 711px) {
+@media screen and (max-width: 726px) {
 	#img {
 		top: 604px;
 	}
@@ -79,7 +79,7 @@
 	left: 96px;
 }
 
-@media screen and (max-width: 711px) {
+@media screen and (max-width: 726px) {
 	#button {
 		top: 604px;
 	}
@@ -91,7 +91,7 @@
     left: 12px;
 }
 
-@media screen and (max-width: 711px) {
+@media screen and (max-width: 726px) {
 	#copyright {
 		top: 864px;
 	}
