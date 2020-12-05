@@ -63,26 +63,25 @@
 
 #img {
     position: absolute;
-    top: 532px;
+    top: 564px;
     left: 0px;
 }
 
 @media screen and (max-width: 711px) {
 	#img {
-		top: 596px;
+		top: 628px;
 	}
 }
 
 #button {
 	position: absolute;
-	top: 532px;
+	top: 564px;
 	left: 96px;
 }
 
 @media screen and (max-width: 711px) {
 	#button {
-		position: absolute;
-		top: 596px;
+		top: 628px;
 	}
 }
 
