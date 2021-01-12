@@ -1,7 +1,13 @@
+body {
+	background-image: url(../assets/bodybackground.png);
+	background-attachment: fixed;
+	background-position: center;
+}
+
 #top {
     background-color: #200f19;
     height: 140px;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -9,14 +15,14 @@
 
 #toptext {
     height: 140px;
-    position: absolute;
+    position: fixed;
     left: 12px;
 }
 
 #linkbox {
 	background-color: #050004;
 	height: 64px;
-	position: absolute;
+	position: fixed;
 	left: 0px;
 	top: 140px;
 	width: 100%;
@@ -31,14 +37,14 @@
 #secretbox {
 	background-color: #050004;
 	height: 64px;
-	position: absolute;
+	position: fixed;
 	left: 0px;
 	top: 140px;
 	width: 100%;
 }
 
 #links {
-    position: absolute;
+    position: fixed;
 	top: 129px;
     left: 5px;
 }
@@ -67,12 +73,6 @@
     left: 0px;
 }
 
-@media screen and (max-width: 726px) {
-	#img {
-		top: 604px;
-	}
-}
-
 #button {
 	position: absolute;
 	top: 540px;
@@ -83,27 +83,29 @@
 	#button {
 		top: 604px;
 	}
-}
-
-#copyright {
-    position: absolute;
-    top: 800px;
-    left: 12px;
-}
-
-@media screen and (max-width: 726px) {
-	#copyright {
-		top: 864px;
+	
+	#img {
+		top: 604px;
 	}
 }
 
-#empty {
-    height: 300px;
-    position: absolute;
-    top: 100%;
-    width: 100%;
+#copyright {
+	background-color: #120c0f;
+	height: 96px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
 }
 
-body {
-	background-color: #261d23;
+@media screen and (max-height: 500px) {
+	#copyright {
+		top: 404px;
+	}
+}
+
+#ccsymbol {
+	position: absolute;
+	left: 12px;
+	top: 48px;
 }
