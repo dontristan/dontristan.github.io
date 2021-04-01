@@ -32,7 +32,7 @@
 	</section>
 
 	<section id="button">
-		<a href="../en/puns.html"><img src="../assets/dog.png" alt="secret button"></a>
+		<a href="../en/puns"><img src="../assets/dog.png" alt="secret button"></a>
 	</section>
 
 	<section id="top">
@@ -48,8 +48,8 @@
 		</article>
 
 		<article id="flags">
-			<a href="../en/about.html"><img src="../assets/ukflag.jpg" alt="english"></a>
-			<a href="../sv/om.html"><img src="../assets/svflag.jpg" alt="svenska"></a>
+			<a href="../en/about"><img src="../assets/ukflag.jpg" alt="english"></a>
+			<a href="../sv/om"><img src="../assets/svflag.jpg" alt="svenska"></a>
 		</article>
 	</section>
 
@@ -58,7 +58,7 @@
 
 	<nav id="links">
 		<p style="color:white;font-family:'Roboto Mono',monospace;">
-		<a href="../en/home.html"><img src="../assets/menu/home.png" alt="Home"></a> <a href="../en/about.html"><img src="../assets/menu/about.png" alt="About"></a> <a href="../en/games.html"><img src="../assets/menu/games.png" alt="Games"></a> <a href="../en/contact.html"><img src="../assets/menu/contact.png" alt="Contact"></a>
+		<a href="../en/home"><img src="../assets/menu/home.png" alt="Home"></a> <a href="../en/about"><img src="../assets/menu/about.png" alt="About"></a> <a href="../en/games"><img src="../assets/menu/games.png" alt="Games"></a> <a href="../en/contact"><img src="../assets/menu/contact.png" alt="Contact"></a>
 		</p>
 	</nav>
 
