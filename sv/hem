@@ -14,9 +14,9 @@
 		</h2>
 
 		<p style="color:white;font-family:'Roboto Mono',monospace;">
-		dontristan.com är <a href="../sv/om.html" style="text-decoration: none">min</a> personliga och<br>
+		dontristan.com är <a href="../sv/om" style="text-decoration: none">min</a> personliga och<br>
 		portfolio hemsida, skapad och<br>
-		programmerad utav <a href="../sv/om.html" style="text-decoration: none">mig</a>
+		programmerad utav <a href="../sv/om" style="text-decoration: none">mig</a>
 		</p>
 	</section>
 	
@@ -33,8 +33,8 @@
 		</article>
 
 		<article id="flags">
-			<a href="../sv/hem.html"><img src="../assets/svflag.jpg" alt="svenska"></a>
-			<a href="../en/home.html"><img src="../assets/ukflag.jpg" alt="english"></a>
+			<a href="../sv/hem"><img src="../assets/svflag.jpg" alt="svenska"></a>
+			<a href="../en/home"><img src="../assets/ukflag.jpg" alt="english"></a>
 		</article>
 	</section>
 
@@ -43,7 +43,7 @@
 
 	<nav id="links">
 		<p>
-		<a href="../sv/hem.html"><img src="../assets/meny/hem.png" alt="hem"></a> <a href="../sv/om.html"><img src="../assets/meny/om.png" alt="om"></a> <a href="../sv/spel.html"><img src="../assets/meny/spel.png" alt="spel"></a> <a href="../sv/kontakt.html"><img src="../assets/meny/kontakt.png" alt="kontakt"></a>
+		<a href="../sv/hem"><img src="../assets/meny/hem.png" alt="hem"></a> <a href="../sv/om"><img src="../assets/meny/om.png" alt="om"></a> <a href="../sv/spel"><img src="../assets/meny/spel.png" alt="spel"></a> <a href="../sv/kontakt"><img src="../assets/meny/kontakt.png" alt="kontakt"></a>
 		</p>
 	</nav>
 
