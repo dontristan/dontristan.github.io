@@ -34,7 +34,7 @@
 	</section>
 	
 	<section id="button">
-		<a href="../sv/ordvitsar.html"><img src="../assets/dog.png" alt="hemlig knapp"></a>
+		<a href="../sv/ordvitsar"><img src="../assets/dog.png" alt="hemlig knapp"></a>
 	</section>
 
 	<section id="top">
@@ -50,8 +50,8 @@
 		</article>
 
 		<article id="flags">
-			<a href="../sv/om.html"><img src="../assets/svflag.jpg" alt="svenska"></a>
-			<a href="../en/about.html"><img src="../assets/ukflag.jpg" alt="english"></a>
+			<a href="#top"><img src="../assets/svflag.jpg" alt="svenska"></a>
+			<a href="../en/about"><img src="../assets/ukflag.jpg" alt="english"></a>
 		</article>
 	</section>
 
@@ -60,7 +60,7 @@
 
 	<nav id="links">
 		<p>
-		<a href="../sv/hem.html"><img src="../assets/meny/hem.png" alt="hem"></a> <a href="../sv/om.html"><img src="../assets/meny/om.png" alt="om"></a> <a href="../sv/spel.html"><img src="../assets/meny/spel.png" alt="spel"></a> <a href="../sv/kontakt.html"><img src="../assets/meny/kontakt.png" alt="kontakt"></a>
+		<a href="../sv/hem"><img src="../assets/meny/hem.png" alt="hem"></a> <a href="../sv/om"><img src="../assets/meny/om.png" alt="om"></a> <a href="../sv/spel"><img src="../assets/meny/spel.png" alt="spel"></a> <a href="../sv/kontakt"><img src="../assets/meny/kontakt.png" alt="kontakt"></a>
 		</p>
 	</nav>
 
