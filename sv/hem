@@ -33,7 +33,7 @@
 		</article>
 
 		<article id="flags">
-			<a href="../sv/hem"><img src="../assets/svflag.jpg" alt="svenska"></a>
+			<a href="#top"><img src="../assets/svflag.jpg" alt="svenska"></a>
 			<a href="../en/home"><img src="../assets/ukflag.jpg" alt="english"></a>
 		</article>
 	</section>
