@@ -4,6 +4,11 @@ body {
 	background-position: center;
 }
 
+ @font-face {
+	font-family: RobotoMono;
+	src: url(../assets/RobotoMono.ttf);
+}
+
 #top {
     background-color: #200f19;
     height: 140px;
